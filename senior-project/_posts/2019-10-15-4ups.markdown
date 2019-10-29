@@ -19,11 +19,18 @@ Below are the 4Up Charts for Semester 1. They will be updated weekly.
 
 [Week 7][time-7] Week 7 4Up
 
+[Week 8][time-8] Week 8 4Up
+
+[Week 9][time-9] Week 9 4Up
+
+
 [time-2]: ./Four-upWeek2.docx
 [time-3]:   ./Four-upWeek3.docx
 [time-4]: ./Four-upWeek4.docx
 [time-5]:   ./Four-upWeek5.docx
 [time-6]: ./Four-upWeek6.docx
 [time-7]:   ./Four-upWeek7.docx
+[time-8]:   ./Four-upWeek8.docx
+[time-9]:   ./Four-upWeek9.docx
 
 [jekyll-talk]: https://talk.jekyllrb.com/
