@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Poster"
+date:   2020-04-19 19:59:08 -0400
+categories: poster
+---
+
+Here is the poster for the project. There are multiple formats. Included is the pdf.
+[TTKD Poster PDF](./TTKDPoster.pdf)
+
+![TTKD Poster](./TTKDPoster.jpg)
+
+
+
+
+[jekyll-talk]: https://talk.jekyllrb.com/
