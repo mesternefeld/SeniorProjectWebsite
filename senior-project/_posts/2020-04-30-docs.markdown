@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "All the Final Documents"
+date:   2020-04-30 00:59:08 -0400
+categories: docs
+---
+
+Here is a list of the final docs we delivered for the project.
+
+
+[Technical Doc](https://drive.google.com/drive/u/1/folders/1kX9ti6Ba9ApYu-lz9QAJRHrvUhz-uLBf)
+
+[Self Assessment Spring](https://drive.google.com/drive/u/1/folders/1kX9ti6Ba9ApYu-lz9QAJRHrvUhz-uLBf)
+
+[Scrum Board](https://trello.com/b/diMMLmxh/scrum-board)
+
+[The application code](https://github.com/pwmittan/TTKD-training_app)
+
+[The admin panel code](https://github.com/mesternefeld/TTKD-admin_panel)
+
+[Project Plan](https://docs.google.com/document/d/1k_tgdlpQDXC-zBmzNJM8JmQXhTLROcl8ynp0z7jLJQ0/edit)
+
+[Self Assessment Fall](https://drive.google.com/drive/u/1/folders/0AA-cj9kTgxG3Uk9PVA)
+
+[Domain Model](https://drive.google.com/drive/u/1/folders/1aIp710JX-tFbk8unGUB97FPmdHsZckiR)

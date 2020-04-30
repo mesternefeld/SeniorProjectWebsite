@@ -10,7 +10,3 @@ Here is the poster for the project. There are multiple formats. Included is the 
 
 ![TTKD Poster](./TTKDPoster.jpg)
 
-
-
-
-[jekyll-talk]: https://talk.jekyllrb.com/
