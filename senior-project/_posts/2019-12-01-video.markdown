@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Fall 2019 Video"
+date:   2019-12-01 19:59:08 -0400
+categories: video
+---
+
+Here is our video for the Fall. It answers the question, "Why is our project important?"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgY7_YTdWm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

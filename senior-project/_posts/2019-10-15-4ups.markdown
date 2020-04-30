@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4Up Charts"
+title:  "Fall 2019 4Up Charts"
 date:   2019-10-15 19:59:08 -0400
 categories: 4Up Charts
 ---
@@ -23,6 +23,15 @@ Below are the 4Up Charts for Semester 1. They will be updated weekly.
 
 [Week 9][time-9] Week 9 4Up
 
+[Week 10][time-10] Week 10 4Up
+
+[Week 11][time-11] Week 11 4Up
+
+[Week 12][time-12] Week 12 4Up
+
+[Week 13][time-13] Week 13 4Up
+
+[Week 14][time-14] Week 14 4Up
 
 [time-2]: ./Four-upWeek2.docx
 [time-3]:   ./Four-upWeek3.docx
@@ -32,5 +41,10 @@ Below are the 4Up Charts for Semester 1. They will be updated weekly.
 [time-7]:   ./Four-upWeek7.docx
 [time-8]:   ./Four-upWeek8.docx
 [time-9]:   ./Four-upWeek9.docx
+[time-10]:   ./Four-upWeek10.docx
+[time-11]:   ./Four-upWeek11.docx
+[time-12]:   ./Four-upWeek12.docx
+[time-13]:   ./Four-upWeek13.docx
+[time-14]:   ./Four-upWeek14.docx
 
 [jekyll-talk]: https://talk.jekyllrb.com/
